@@ -1,0 +1,44 @@
+*{
+  box sizing: border-box;
+}
+body{
+background: url(https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.zastavki.com%2Fpictures%2F1680x1050%2F2011%2FSpace_Constellations_030663_.jpg&f=1)
+}
+
+h1{
+text-align: center;
+color: #b59e66;
+font-family: 'Cinzel', serif;
+font-size: xx-large;
+font-size: 4em;
+text-decoration: underline;
+
+}
+
+h2{
+  color: white;
+  text-align: left;
+  font-family: 'Kaushan Script', cursive;
+  font-size: -webkit-xxx-large;
+  padding-left: 6rem;
+}
+
+button{
+background-color: white;
+border-radius: 1em;
+color: black;
+;}
+
+.month{
+  background-color: white;
+  border-radius: 3em;
+  margin-top: 56px;
+}
+
+.day{
+  background-color: white;
+}
+
+section{
+  text-align: center;
+}
